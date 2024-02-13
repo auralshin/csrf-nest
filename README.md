@@ -43,12 +43,10 @@ export class YourService {
 ```
 
 ## Configuration
-
-Describe any configuration options your package offers, such as custom token generation paths or token expiration settings.
+TBH
 
 ## Contributing
 
-Encourage contributions by providing guidelines for submitting issues, feature requests, and pull requests.
-
+TBH
 ## License
 
